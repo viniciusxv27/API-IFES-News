@@ -27,7 +27,8 @@ O projeto está pronto para ser testado
 
 ## 🛠️ Construído com
 
-* [PHP8](http://www.dropwizard.io/1.0.2/docs/) - A linguagem usada
+* [PHP8](https://www.php.net/) - A linguagem usada
+* [MYSQL](https://www.mysql.com/) - O Banco de dados usado
 
 ## 📌 Versão
 
